@@ -13,5 +13,10 @@ const person: {
   age: 30,
 };
 
+const personCorrect = {
+  name: 'Max',
+  age: 30,
+};
+
 console.log(add(number1, number2));
 console.log(person);
