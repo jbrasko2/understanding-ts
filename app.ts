@@ -5,4 +5,13 @@ const add = (n1: number, n2: number) => {
 const number1 = '5';
 const number2 = 10;
 
+const person: {
+  name: string;
+  age: number;
+} = {
+  name: 'Max',
+  age: 30,
+};
+
 console.log(add(number1, number2));
+console.log(person);
