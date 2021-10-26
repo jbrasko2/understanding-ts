@@ -18,5 +18,8 @@ const personCorrect = {
   age: 30,
 };
 
+let favoriteActivities: string[]
+favoriteActivities = ['Baseball', 1]
+
 console.log(add(number1, number2));
 console.log(person);
